@@ -1,0 +1,693 @@
+{
+  "topMovies": [
+    {
+      "Title": "Top Gun: Maverick",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Released": "27 May 2022",
+      "Runtime": "130 min",
+      "Genre": "Action, Drama",
+      "Director": "Joseph Kosinski",
+      "Writer": "Jim Cash, Jack Epps Jr., Peter Craig",
+      "Actors": "Tom Cruise, Jennifer Connelly, Miles Teller",
+      "Plot": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "9 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQwOTA1ZDQtNzk3Yi00ZmVmLWFiZGYtNjdjNThiYjJhNzRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "8.5",
+      "imdbVotes": "315,495",
+      "imdbID": "tt1745960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$691,213,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Batman",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Released": "04 Mar 2022",
+      "Runtime": "176 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Matt Reeves",
+      "Writer": "Matt Reeves, Peter Craig, Bob Kane",
+      "Actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+      "Plot": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "Language": "English, Spanish, Latin, Italian",
+      "Country": "United States",
+      "Awards": "2 wins & 25 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.9",
+      "imdbVotes": "570,429",
+      "imdbID": "tt1877830",
+      "Type": "movie",
+      "DVD": "19 Apr 2022",
+      "BoxOffice": "$369,345,583",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Everything Everywhere All at Once",
+      "Year": "2022",
+      "Rated": "R",
+      "Released": "25 Mar 2022",
+      "Runtime": "139 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Dan Kwan, Daniel Scheinert",
+      "Writer": "Dan Kwan, Daniel Scheinert",
+      "Actors": "Michelle Yeoh, Stephanie Hsu, Ke Huy Quan",
+      "Plot": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+      "Language": "English, Mandarin, Cantonese",
+      "Country": "United States",
+      "Awards": "8 wins & 9 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.2",
+      "imdbVotes": "175,540",
+      "imdbID": "tt6710474",
+      "Type": "movie",
+      "DVD": "07 Jun 2022",
+      "BoxOffice": "$69,630,855",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Northman",
+      "Year": "2022",
+      "Rated": "R",
+      "Released": "22 Apr 2022",
+      "Runtime": "137 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Robert Eggers",
+      "Writer": "Sjón, Robert Eggers",
+      "Actors": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
+      "Plot": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+      "Language": "English, Norse, Old",
+      "Country": "United States, China",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.2",
+      "imdbVotes": "159,860",
+      "imdbID": "tt11138512",
+      "Type": "movie",
+      "DVD": "13 May 2022",
+      "BoxOffice": "$34,233,110",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Turning Red",
+      "Year": "2022",
+      "Rated": "PG",
+      "Released": "11 Mar 2022",
+      "Runtime": "2 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Domee Shi",
+      "Writer": "Domee Shi, Julia Cho, Sarah Streicher",
+      "Actors": "Rosalie Chiang, Sandra Oh, Ava Morse",
+      "Plot": "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.",
+      "Language": "English, Cantonese",
+      "Country": "United States, Canada",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxZDMxYWUtNjNiZC00MDE1LWI2Y2QtNWZhNDAyMGY5ZjVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.0",
+      "imdbVotes": "112,460",
+      "imdbID": "tt8097030",
+      "Type": "movie",
+      "DVD": "11 Mar 2022",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Happening",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "24 Nov 2021",
+      "Runtime": "2 min",
+      "Genre": "Drama",
+      "Director": "Audrey Diwan",
+      "Writer": "Marcia Romano, Audrey Diwan, Annie Ernaux",
+      "Actors": "Anamaria Vartolomei, Kacey Mottet Klein, Luàna Bajrami",
+      "Plot": "An adaptation of Annie Ernaux's novel of the same name, looking back on her experience with abortion when it was still illegal in France in the 1960s.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "Nominated for 1 BAFTA Award13 wins & 16 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDU4NTE3YTQtMzczMC00YzRkLWI5MjItNGE3NjQ0NTY4MzExXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.4",
+      "imdbVotes": "5,452",
+      "imdbID": "tt13880104",
+      "Type": "movie",
+      "DVD": "21 Jun 2022",
+      "BoxOffice": "$181,023",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Prey",
+      "Year": "2022",
+      "Rated": "R",
+      "Released": "05 Aug 2022",
+      "Runtime": "99 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Dan Trachtenberg",
+      "Writer": "Patrick Aison, Dan Trachtenberg, Jim Thomas",
+      "Actors": "Amber Midthunder, Dakota Beavers, Dane DiLiegro",
+      "Plot": "The origin story of the Predator in the world of the Comanche Nation 300 years ago. Naru, a skilled warrior, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+      "Language": "English, North American Indian, French",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.2",
+      "imdbVotes": "105,342",
+      "imdbID": "tt11866324",
+      "Type": "movie",
+      "DVD": "05 Aug 2022",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Fire of Love",
+      "Year": "2022",
+      "Rated": "PG",
+      "Released": "22 Jul 2022",
+      "Runtime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Sara Dosa",
+      "Writer": "Shane Boris, Erin Casper, Jocelyne Chaput",
+      "Actors": "Miranda July, Katia Krafft, Maurice Krafft",
+      "Plot": "Intrepid scientists and lovers Katia and Maurice Krafft died in a volcanic explosion doing the very thing that brought them together: unraveling the mysteries of volcanoes by capturing the most explosive imagery ever recorded.",
+      "Language": "French, English",
+      "Country": "Canada, United States",
+      "Awards": "7 wins & 12 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwNjMxOWQtYTEyOC00OTUyLTlhMTItOGFkOTJkMWM1NDQ5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,634",
+      "imdbID": "tt16227014",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$986,026",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Marcel the Shell with Shoes On",
+      "Year": "2021",
+      "Rated": "PG",
+      "Released": "24 Jun 2022",
+      "Runtime": "2 min",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "Dean Fleischer-Camp",
+      "Writer": "Dean Fleischer-Camp, Elisabeth Holm, Nick Paley",
+      "Actors": "Jenny Slate, Dean Fleischer-Camp, Isabella Rossellini",
+      "Plot": "Feature adaptation of the animated short film interviewing a mollusk named Marcel.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.1",
+      "imdbVotes": "3,598",
+      "imdbID": "tt15339456",
+      "Type": "movie",
+      "DVD": "06 Sep 2022",
+      "BoxOffice": "$6,078,570",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Duke",
+      "Year": "2020",
+      "Rated": "R",
+      "Released": "25 Feb 2022",
+      "Runtime": "2 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Roger Michell",
+      "Writer": "Richard Bean, Clive Coleman",
+      "Actors": "Jim Broadbent, Heather Craney, Stephen Rashbrook",
+      "Plot": "In 1961, Kempton Bunton, a 60 year old taxi driver, steals Goya's portrait of the Duke of Wellington from the National Gallery in London.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQwYTIzNTgtNDNjNS00MTM2LWJkZmQtNDEwMjJkYWJlOTBmXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "6.9",
+      "imdbVotes": "7,086",
+      "imdbID": "tt11204094",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,526,970",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ],
+  "topSeries": [
+    {
+      "Title": "House of the Dragon",
+      "Year": "2022–",
+      "Rated": "N/A",
+      "Released": "21 Aug 2022",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Ryan J. Condal, George R.R. Martin",
+      "Actors": "Paddy Considine, Olivia Cooke, Emma D'Arcy",
+      "Plot": "The story of the House Targaryen set 200 years before the events of Game of Thrones (2011).",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11198330",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "The Mandalorian",
+      "Year": "2019–",
+      "Rated": "TV-14",
+      "Released": "12 Nov 2019",
+      "Runtime": "40 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "N/A",
+      "Writer": "Jon Favreau",
+      "Actors": "Pedro Pascal, Carl Weathers, Giancarlo Esposito",
+      "Plot": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 14 Primetime Emmys. 58 wins & 122 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "454,412",
+      "imdbID": "tt8111088",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Inventing Anna",
+      "Year": "2022",
+      "Rated": "TV-MA",
+      "Released": "11 Feb 2022",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Shonda Rhimes",
+      "Actors": "Anna Chlumsky, Julia Garner, Arian Moayed",
+      "Plot": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Primetime Emmys. 1 win & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2QzMWM5OTgtZDE1MC00ZmMyLWIyODItMmQ4NjNlZGRjYTUzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "63,358",
+      "imdbID": "tt8740976",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Ozark",
+      "Year": "2017–2022",
+      "Rated": "TV-MA",
+      "Released": "21 Jul 2017",
+      "Runtime": "60 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Bill Dubuque, Mark Williams",
+      "Actors": "Jason Bateman, Laura Linney, Sofia Hublitz",
+      "Plot": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 3 Primetime Emmys. 20 wins & 153 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "304,773",
+      "imdbID": "tt5071412",
+      "Type": "series",
+      "totalSeasons": "4",
+      "Response": "True"
+    },
+    {
+      "Title": "She Hulk",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "24 Aug 2008",
+      "Runtime": "9 min",
+      "Genre": "Short, Action",
+      "Director": "Stephen Groo",
+      "Writer": "Stephen Groo",
+      "Actors": "Stephen Groo, Joseph Hawkins, Aaron Parker",
+      "Plot": "Short based off the first comic of She Hulk by Marvel Comics. Jennifer Walters get shot by henchmen who follow a drug lord named Trask. Bruce Banner also known as the Incredible Hulk who is her cousin saves her life by giving his ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdjOTliZDEtNGUwMi00MDQ5LWExNGMtN2NmYTBkZmNhMjkyXkEyXkFqcGdeQXVyNDUzMTg5NA@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "36",
+      "imdbID": "tt8598758",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Sandman",
+      "Year": "2022–",
+      "Rated": "TV-MA",
+      "Released": "05 Aug 2022",
+      "Runtime": "1 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "N/A",
+      "Writer": "Neil Gaiman, David S. Goyer, Allan Heinberg",
+      "Actors": "Tom Sturridge, Boyd Holbrook, Patton Oswalt",
+      "Plot": "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "103,068",
+      "imdbID": "tt1751634",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Better Call Saul",
+      "Year": "2015–2022",
+      "Rated": "TV-MA",
+      "Released": "08 Feb 2015",
+      "Runtime": "46 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Vince Gilligan, Peter Gould",
+      "Actors": "Bob Odenkirk, Rhea Seehorn, Jonathan Banks",
+      "Plot": "The trials and tribulations of criminal lawyer Jimmy McGill before his fateful run-in with Walter White and Jesse Pinkman.",
+      "Language": "English, Spanish, Vietnamese",
+      "Country": "United States",
+      "Awards": "Nominated for 46 Primetime Emmys. 40 wins & 241 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.9",
+      "imdbVotes": "484,642",
+      "imdbID": "tt3032476",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    },
+    {
+      "Title": "Echoes",
+      "Year": "2014",
+      "Rated": "Not Rated",
+      "Released": "18 May 2015",
+      "Runtime": "93 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Nils Timm",
+      "Writer": "Nils Timm",
+      "Actors": "Kate French, Steven Brand, Steve Hanks",
+      "Plot": "Struggling with horrifying, sleep-paralysis induced visions, a young writer retreats with her boyfriend to an isolated desert house. As the visions intensify, she finds herself on the verge of losing her mind...or uncovering a lif...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 wins & 11 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk1YTZkMzEtNDE1NS00NjgzLWFlMTQtNjAyYmM0ZTFlNmRiXkEyXkFqcGdeQXVyMjQyNDc0NTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.3",
+      "imdbVotes": "1,529",
+      "imdbID": "tt3033948",
+      "Type": "movie",
+      "DVD": "15 Oct 2015",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Witcher",
+      "Year": "2019–",
+      "Rated": "TV-MA",
+      "Released": "20 Dec 2019",
+      "Runtime": "60 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Tomek Baginski",
+      "Writer": "Lauren Schmidt",
+      "Actors": "Henry Cavill, Freya Allan, Anya Chalotra",
+      "Plot": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "Language": "English",
+      "Country": "Poland, United States, Hungary",
+      "Awards": "Nominated for 3 Primetime Emmys. 5 wins & 22 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "476,601",
+      "imdbID": "tt5180504",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "Title": "Sense8",
+      "Year": "2015–2018",
+      "Rated": "TV-MA",
+      "Released": "05 Jun 2015",
+      "Runtime": "60 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "J. Michael Straczynski, Lana Wachowski, Lilly Wachowski",
+      "Actors": "Bae Doona, Jamie Clayton, Tina Desai",
+      "Plot": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Primetime Emmys. 3 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "153,509",
+      "imdbID": "tt2431438",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
+  ],
+  "Response": "True"
+}

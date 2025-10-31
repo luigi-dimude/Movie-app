@@ -1,0 +1,392 @@
+{
+  "topMovies": [
+    {
+      "Title": "Oppenheimer",
+      "Year": "2023",
+      "Rated": "R",
+      "Released": "21 Jul 2023",
+      "Runtime": "180 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+      "Actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+      "Plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 7 Oscars. 246 wins & 369 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.3",
+      "imdbVotes": "1,200,000",
+      "imdbID": "tt15398776",
+      "Type": "movie",
+      "DVD": "21 Nov 2023",
+      "BoxOffice": "$975,000,000",
+      "Production": "Universal Pictures",
+      "Website": "https://www.oppenheimermovie.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Barbie",
+      "Year": "2023",
+      "Rated": "PG-13",
+      "Released": "21 Jul 2023",
+      "Runtime": "114 min",
+      "Genre": "Adventure, Comedy, Fantasy",
+      "Director": "Greta Gerwig",
+      "Writer": "Greta Gerwig, Noah Baumbach",
+      "Actors": "Margot Robbie, Ryan Gosling, America Ferrera",
+      "Plot": "Barbie suffers a crisis that leads her to question her world and her existence.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 1 Oscar. 145 wins & 347 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "6.9",
+      "imdbVotes": "600,000",
+      "imdbID": "tt1517268",
+      "Type": "movie",
+      "DVD": "21 Oct 2023",
+      "BoxOffice": "$1,441,000,000",
+      "Production": "Warner Bros.",
+      "Website": "https://www.barbie-themovie.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Dune: Part Two",
+      "Year": "2024",
+      "Rated": "PG-13",
+      "Released": "01 Mar 2024",
+      "Runtime": "166 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Denis Villeneuve",
+      "Writer": "Denis Villeneuve, Jon Spaihts, Frank Herbert",
+      "Actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+      "Plot": "Paul Atreides unites with the Fremen to avenge his family and fulfill his destiny on Arrakis.",
+      "Language": "English",
+      "Country": "United States, Canada",
+      "Awards": "3 wins & 14 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "8.8",
+      "imdbVotes": "450,000",
+      "imdbID": "tt15239678",
+      "Type": "movie",
+      "DVD": "10 May 2024",
+      "BoxOffice": "$710,000,000",
+      "Production": "Legendary Pictures, Warner Bros.",
+      "Website": "https://www.dunemovie.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Inside Out 2",
+      "Year": "2024",
+      "Rated": "PG",
+      "Released": "14 Jun 2024",
+      "Runtime": "100 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Kelsey Mann",
+      "Writer": "Meg LeFauve, Dave Holstein, Pete Docter",
+      "Actors": "Amy Poehler, Maya Hawke, Phyllis Smith",
+      "Plot": "Teenager Riley’s mind headquarters faces a sudden demolition when new emotions show up.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "8.0",
+      "imdbVotes": "250,000",
+      "imdbID": "tt22022452",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,600,000,000",
+      "Production": "Pixar Animation Studios",
+      "Website": "https://movies.disney.com/inside-out-2",
+      "Response": "True"
+    },
+    {
+      "Title": "The Killer",
+      "Year": "2023",
+      "Rated": "R",
+      "Released": "27 Oct 2023",
+      "Runtime": "118 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "David Fincher",
+      "Writer": "Andrew Kevin Walker, Alexis Nolent, Luc Jacamon",
+      "Actors": "Michael Fassbender, Tilda Swinton, Charles Parnell",
+      "Plot": "After a fateful near miss, an assassin battles his employers and himself on an international manhunt he insists isn’t personal.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.0",
+      "imdbVotes": "200,000",
+      "imdbID": "tt1136617",
+      "Type": "movie",
+      "DVD": "10 Nov 2023",
+      "BoxOffice": "N/A",
+      "Production": "Netflix",
+      "Website": "https://www.netflix.com/title/81264064",
+      "Response": "True"
+    },
+    {
+      "Title": "Poor Things",
+      "Year": "2023",
+      "Rated": "R",
+      "Released": "08 Dec 2023",
+      "Runtime": "141 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Yorgos Lanthimos",
+      "Actors": "Emma Stone, Mark Ruffalo, Willem Dafoe",
+      "Plot": "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by an unorthodox scientist.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": "8.1",
+      "Type": "movie"
+    },
+    {
+      "Title": "Mission: Impossible – Dead Reckoning Part One",
+      "Year": "2023",
+      "Rated": "PG-13",
+      "Released": "12 Jul 2023",
+      "Runtime": "164 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Christopher McQuarrie",
+      "Actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+      "Plot": "Ethan Hunt and his IMF team must track down a terrifying new weapon that threatens humanity before it falls into the wrong hands.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": "7.8",
+      "Type": "movie"
+    },
+    {
+      "Title": "Killers of the Flower Moon",
+      "Year": "2023",
+      "Rated": "R",
+      "Released": "20 Oct 2023",
+      "Runtime": "206 min",
+      "Genre": "Crime, Drama, History",
+      "Director": "Martin Scorsese",
+      "Actors": "Leonardo DiCaprio, Robert De Niro, Lily Gladstone",
+      "Plot": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": "7.7",
+      "Type": "movie"
+    },
+    {
+      "Title": "Furiosa: A Mad Max Saga",
+      "Year": "2024",
+      "Rated": "R",
+      "Released": "24 May 2024",
+      "Runtime": "148 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "George Miller",
+      "Actors": "Anya Taylor-Joy, Chris Hemsworth, Tom Burke",
+      "Plot": "As the world falls apart, young Furiosa is snatched from the Green Place and must find her way home through the Wasteland.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": "7.4",
+      "Type": "movie"
+    }
+  ],
+  "topSeries": [
+    {
+      "Title": "The Last of Us",
+      "Year": "2023–",
+      "Rated": "TV-MA",
+      "Released": "15 Jan 2023",
+      "Runtime": "60 min",
+      "Genre": "Action, Adventure, Drama",
+      "Writer": "Craig Mazin, Neil Druckmann",
+      "Actors": "Pedro Pascal, Bella Ramsey, Anna Torv",
+      "Plot": "Twenty years after a fungal outbreak destroyed civilization, Joel and Ellie form a bond as they fight to survive.",
+      "Language": "English",
+      "Country": "United States, Canada",
+      "Awards": "Won 8 Primetime Emmys. 44 wins & 140 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        }
+      ],
+      "imdbRating": "8.8",
+      "imdbID": "tt3581920",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Wednesday",
+      "Year": "2022–",
+      "Rated": "TV-14",
+      "Released": "23 Nov 2022",
+      "Runtime": "45 min",
+      "Genre": "Comedy, Crime, Fantasy",
+      "Writer": "Alfred Gough, Miles Millar",
+      "Actors": "Jenna Ortega, Gwendoline Christie, Riki Lindhome",
+      "Plot": "Follows Wednesday Addams as she investigates a murder spree while navigating school and psychic powers.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 4 Primetime Emmys. 17 wins & 59 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE1NjNmZjgtZTg0OC00NjkxLWEzYzItMDNkMTc3YjgxZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "imdbRating": "8.1",
+      "imdbID": "tt13443470",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Fallout",
+      "Year": "2024–",
+      "Rated": "TV-MA",
+      "Released": "10 Apr 2024",
+      "Runtime": "60 min",
+      "Genre": "Action, Adventure, Drama",
+      "Writer": "Geneva Robertson-Dworet, Graham Wagner",
+      "Actors": "Ella Purnell, Walton Goggins, Aaron Moten",
+      "Plot": "In a post-apocalyptic world, survivors adapt to the harsh realities of a nuclear wasteland based on the video game franchise.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "imdbRating": "8.5",
+      "imdbID": "tt12637874",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Squid Game: The Challenge",
+      "Year": "2023–",
+      "Rated": "TV-MA",
+      "Released": "22 Nov 2023",
+      "Runtime": "50 min",
+      "Genre": "Reality-TV, Thriller",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Real contestants compete in games inspired by the hit series Squid Game for a huge cash prize.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU4ZmQxZjYtYjE2YS00OWM2LTg2ZmMtMDMwYWI1Mzg0Y2NjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "imdbRating": "7.4",
+      "imdbID": "tt28218752",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    {
+      "Title": "Ahsoka",
+      "Year": "2023–",
+      "Rated": "TV-14",
+      "Released": "22 Aug 2023",
+      "Runtime": "45 min",
+      "Genre": "Action, Adventure, Drama",
+      "Writer": "Dave Filoni",
+      "Actors": "Rosario Dawson, Natasha Liu Bordizzo, Mary Elizabeth Winstead",
+      "Plot": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Primetime Emmys",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ3NmQxZTEtNDc2MS00ODExLWE3ZDEtZTU2N2Y2NjAyNmY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "imdbRating": "7.8",
+      "imdbID": "tt13622776",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
+  ]
+}
