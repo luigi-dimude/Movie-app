@@ -255,6 +255,46 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX300.jpg",
       "imdbRating": "7.4",
       "Type": "movie"
+    },
+    {
+      "Title": "The Northman",
+      "Year": "2022",
+      "Rated": "R",
+      "Released": "22 Apr 2022",
+      "Runtime": "137 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Robert Eggers",
+      "Writer": "Sjón, Robert Eggers",
+      "Actors": "Alexander Skarsgård, Nicole Kidman, Claes Bang",
+      "Plot": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+      "Language": "English, Norse, Old",
+      "Country": "United States, China",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.2",
+      "imdbVotes": "159,860",
+      "imdbID": "tt11138512",
+      "Type": "movie",
+      "DVD": "13 May 2022",
+      "BoxOffice": "$34,233,110",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
     }
   ],
   "topSeries": [
